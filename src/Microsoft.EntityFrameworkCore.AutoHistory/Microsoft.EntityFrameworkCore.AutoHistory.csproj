@@ -1,8 +1,8 @@
 ﻿<Project Sdk="Microsoft.NET.Sdk">
   <PropertyGroup>
     <Description>A plugin for Microsoft.EntityFrameworkCore to support automatically recording data changes history.</Description>
-    <VersionPrefix>6.0.0</VersionPrefix>
-    <Authors>rigofunc;rigofunc@outlook.com</Authors>
+    <VersionPrefix>6.0.1</VersionPrefix>
+    <Authors>matthieu.barthelemy@bealink.io</Authors>
     <TargetFramework>net6.0</TargetFramework>
     <NoWarn>$(NoWarn);CS1591</NoWarn>
     <TreatWarningsAsErrors>true</TreatWarningsAsErrors>
@@ -10,7 +10,7 @@
     <AssemblyName>Microsoft.EntityFrameworkCore.AutoHistory</AssemblyName>
     <PackageId>Microsoft.EntityFrameworkCore.AutoHistory</PackageId>
     <PackageTags>Entity Framework Core;entity-framework-core;EF;Data;O/RM;Auto History;auto-history</PackageTags>
-    <PackageProjectUrl>https://github.com/arch/AutoHistory</PackageProjectUrl>
+    <PackageProjectUrl>https://github.com/Bealink/AutoHistory</PackageProjectUrl>
     <PackageLicenseExpression>MIT</PackageLicenseExpression>
     <RepositoryType>git</RepositoryType>
     <RepositoryUrl>https://github.com/arch/AutoHistory.git</RepositoryUrl>
